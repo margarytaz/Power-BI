@@ -6,6 +6,8 @@ This project presents a **Power BI** dashboard designed to visualize and analyze
 
 ## 📊 Dashboard Overview
 
+<img src="visuals/dashboard.gif" width="500" height="300" alt="Dashboard Interactivity GIF">
+
 The dashboard offers an interactive overview of sales data, including:
 
 * **Total Sales:** A card for a prominent display of overall sales revenue.
@@ -21,18 +23,17 @@ The dashboard offers an interactive overview of sales data, including:
 ## ✨ Interactivity
 
 The dashboard is designed to be interactive, allowing users to explore data dynamically. You can filter the visuals by clicking on specific `Coffee Type` in the "Sales by Product" table, and other related visuals.
-![Dashboard Interactivity GIF](path/to/your/dashboard_interactivity.gif)
 
 ---
 
 ## ☕ Dataset
 
 The underlying data for this dashboard is sourced from a public dataset on **Kaggle**. For more details on the original dataset, please refer to:
-[Link to Kaggle Dataset - *Insert actual Kaggle link here*]
+[Link to Kaggle Dataset](https://www.kaggle.com/datasets/reignrichard/coffee-store-sales)
 
 ---
 
 ## 🛠️ Technologies Used
 
 * **Microsoft Power BI Desktop:**
-  [Link to Power BI Desktop file - **]
+  [Link to Power BI Desktop file](powerbi/coffee_shop.pbix)
