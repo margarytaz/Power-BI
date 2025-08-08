@@ -6,7 +6,7 @@ This project presents a **Power BI** dashboard designed to visualize and analyze
 
 ## 📊 Dashboard Overview
 
-<img src="visuals/dashboard.gif" width="500" height="300" alt="Dashboard Interactivity GIF">
+<img src="visuals/dashboard.gif" width="650" height="400" alt="Dashboard Interactivity GIF">
 
 The dashboard offers an interactive overview of sales data, including:
 
